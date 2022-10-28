@@ -1,5 +1,4 @@
-    - Hi, I’m @Snowolf
-       I’m programmer analyst and ethical hacker.
+    - Hi, I’m @Snowolf, programmer analyst and ethical hacker.
     --------------------------------------------------------------------
        📫 How to reach me snowolf2397@gmail.com and 
            my formal mail is joseanalistaprogramador.2397@gmail.com      
